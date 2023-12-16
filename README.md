@@ -1,3 +1,3 @@
-# Tools-for-data-science
-This is a notebook made as a part of the Cousera Course 
-IBM TOOLS FOR DATA SCIENCE
+# COURSERA ASSIGNMENTS
+This is a notebook made to upload assignments for the COURSERA CERTIFICATION COURSE: <b> IBM Data Science Professional Certificate 
+
